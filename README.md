@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sticky joe...nice to meet you
+- 👋 Hi, I’m Sticky joe...nice to meet you too.
 - 👀 I’m interested in web development and building interactive and responsive web applications.
 - 🌱 I’m currently learning Laravel as a framework.
 - 💞️ I’m looking to collaborate on anything Web so I can learn from you😀
